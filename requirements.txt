@@ -1,0 +1,24 @@
+# Core dependencies
+openai
+requests
+tqdm
+
+# AndroidEnv and dependencies
+git+https://github.com/google-research/android_world.git
+gym==0.23.1
+numpy
+absl-py
+
+# Optional LLM support (e.g., Gemini)
+google-generativeai
+
+# Image / rendering utils (if using Supervisor visual traces)
+matplotlib
+Pillow
+
+# Logging and data
+pandas
+
+# For handling UI trees (if needed)
+lxml
+beautifulsoup4
