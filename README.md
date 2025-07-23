@@ -4,9 +4,10 @@ A multi-agent LLM-powered mobile QA automation system built on top of [Agent-S](
 
 ---
 
-'''
+
 ## 📁 Project Structure
 
+"""
 Qualgent-QA-System/
 ├── agent_s/ # Forked Agent-S repository
 ├── planner_agent.py # LLM-based Planner
@@ -19,4 +20,4 @@ Qualgent-QA-System/
 ├── requirements.txt # Python dependencies
 ├── setup.sh # Project setup script
 └── README.md # This file
-
+"""
