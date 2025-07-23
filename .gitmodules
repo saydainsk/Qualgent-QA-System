@@ -1,0 +1,3 @@
+[submodule "agent_s"]
+	path = agent_s
+	url = https://github.com/saydainsk/Agent-S.git
